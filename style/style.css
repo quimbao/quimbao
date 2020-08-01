@@ -45,7 +45,7 @@ body {
     background-color: #71c2fc69;
     border: 1px solid #1b9cf9;
     border-radius: 30px;
-    width: 500px;
+    width: 70%;
     margin: 0 auto;
 }
 
@@ -78,10 +78,11 @@ body {
     }
 
     .container {
-        width: 350px;
+        width: 90%;
     }
 
     .footer {
+        width: 100%;
         padding: 10px;
         background-color: #1b9cf9;
     }
